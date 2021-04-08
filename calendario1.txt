@@ -1,0 +1,10 @@
+14/09/2000 20:15:00
+29/05/2000 13:55:45
+Fecha 1: 2000-09-14 20:15:00
+Fecha 2: 29/05/2000 13:55:45
+Modificamos la fecha 1: 2001-03-28 21:25:24
+Modificamos la fecha 2: 2000-03-19 01:39:55
+¿La fecha 1 es mayor que la fecha 2?: True
+Resta antigüa: 108 days, 6:19:15
+Suma nueva: 2001-07-15 03:44:39
+Segundos en diez años: 315360000.0
