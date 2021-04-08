@@ -136,13 +136,13 @@ print(actualizamos2)
 
 #Identificamos el objeto mínimo y máximo
 minimo = timedelta.min
-print(minimo)
 calendar2.write("\nMínimo: ")
 calendar2.write(str(minimo))
 maximo = timedelta.max
-print(maximo)
 calendar2.write("\nMáximo: ")
 calendar2.write(str(maximo))
+print(minimo)
+print(maximo)
 
 #Cerramos el archivo
 calendar2.close()
